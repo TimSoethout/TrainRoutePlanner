@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/joda-time-1.6/joda-time-1.6.jar" sourcepath="lib/joda-time-1.6/joda-time-1.6-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://joda-time.sourceforge.net/api-release/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/guava-r10/guava-10.0.jar" sourcepath="lib/guava-r10/guava-10.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://docs.guava-libraries.googlecode.com/git-history/v10.0/javadoc"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/guava-r09/guava-r09.jar" sourcepath="lib/guava-r09/guava-src-r09.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="http://guava-libraries.googlecode.com/svn/trunk/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/guava-r05/guava-r05.jar" sourcepath="lib/guava-r05/guava-src-r05.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="http://guava-libraries.googlecode.com/svn/trunk/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jgrapht-0.8.2/jgrapht-jdk1.6.jar" sourcepath="lib/jgrapht-0.8.2/src">
+		<attributes>
+			<attribute name="javadoc_location" value="http://www.jgrapht.org/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jgrapht-0.8.1/jgrapht-jdk1.6.jar" sourcepath="lib/jgrapht-0.8.1/src">
+		<attributes>
+			<attribute name="javadoc_location" value="http://www.jgrapht.org/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/net-datastructures-5-0.jar" sourcepath="lib">
+		<attributes>
+			<attribute name="javadoc_location" value="http://net3.datastructures.net/doc5/index.html"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
